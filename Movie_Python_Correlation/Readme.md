@@ -1,6 +1,6 @@
   ## Project Name: Movie Correlation Project
 
-#Description:
+# Description:
 The Movie Correlation Project involved the analysis of a comprehensive dataset containing information on 6,820 movies from the years 1986 to 2016. The dataset encompassed various attributes of each movie, including budget, production company, country of origin, director, genre, gross revenue, rating, release date, runtime, IMDb user rating, number of user votes, main actor/actress, writer, and year of release. This dataset was obtained by scraping data from IMDb.
 
 In this project, I utilized my data analysis skills to gain valuable insights into the movie industry. I began by preparing the data, handling missing values, and transforming data types to facilitate further analysis. The dataset was then explored through visualizations, such as scatter plots, to examine the relationship between budget and gross earnings.
